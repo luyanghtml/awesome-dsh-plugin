@@ -1,0 +1,6 @@
+url: https://github.com/luyanghtml/dsh-easy-git
+name: luyanghtml/dsh-easy-git
+category: git
+description:
+  en: "Git panel in the DSH sidebar: commit history, per-file diffs with a fullscreen file rail, .patch export to a folder you pick, fetch plus fast-forward pull, and branch switching."
+  zh: "DSH 侧栏 Git 面板：提交历史、逐文件 diff、全屏看改动、导出 patch 到自选目录、拉取并快进、切分支。"
